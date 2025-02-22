@@ -404,8 +404,8 @@ section{
     }
     
      .main-container .image{
-        width: 80%;
-        height: 50%;
+        width: 1;
+        height: 2;
         z-index: -1;
     }
     
